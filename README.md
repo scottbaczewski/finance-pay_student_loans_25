@@ -1,0 +1,1 @@
+Python notebook to do calculations and graphing of decision to pay off student loans in June 2025 and put payments for deck.
